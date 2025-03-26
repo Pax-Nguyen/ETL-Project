@@ -10,3 +10,6 @@ Many people signup for their training. Company wants to know which of these cand
 Information related to demographics, education, experience are in hands from candidates signup and enrollment.
 
 **Access to my python file to see the project's detail**
+
+https://colab.research.google.com/drive/1lubpzpLBaTR46WAvWvK1LXlwnGd4BVWk#scrollTo=bcihe7n7hrvm
+
